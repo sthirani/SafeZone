@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Safezone</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pass">Password</string>
+    <string name="title_activity_alert">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map_tracking">Map</string>
+</resources>

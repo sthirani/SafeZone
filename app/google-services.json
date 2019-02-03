@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "969352956324",
+    "firebase_url": "https://safezone-6567c.firebaseio.com",
+    "project_id": "safezone-6567c",
+    "storage_bucket": "safezone-6567c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969352956324:android:07c7d1956aa0c5a7",
+        "android_client_info": {
+          "package_name": "com.slohackathon.safezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969352956324-gij4oosmrs4159v6gftaeg4drva44qe0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slohackathon.safezone",
+            "certificate_hash": "39cb705a9b295c4ecbfad5c00690c2bcc3fa39bf"
+          }
+        },
+        {
+          "client_id": "969352956324-9fe1mp873ii10hhenn1s7phu4sf6vgh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-PXpSigVjNz83eZY8pkfNeFi6QZ-BQMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969352956324-9fe1mp873ii10hhenn1s7phu4sf6vgh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
